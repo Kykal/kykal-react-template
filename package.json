@@ -1,0 +1,29 @@
+{
+  "name": "kykal-react-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kykal/kykal-react-template.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "react-app",
+    "webdev",
+    "web-dev",
+    "kykal",
+    "kykaldev",
+    "kykal-dev"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kykal/kykal-react-template/issues"
+  },
+  "homepage": "https://github.com/Kykal/kykal-react-template#readme"
+}
