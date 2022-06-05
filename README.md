@@ -1,5 +1,5 @@
 # Kykal React template
-My CRA template
+My ``create-react-app`` template.
 
 # How to use
 To make use of this template you must enter this command in your console/terminal.
