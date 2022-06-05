@@ -1,5 +1,5 @@
 # Kykal React template
-A template to develop using ReactJS!
+My CRA template
 
 # How to use
 To make use of this template you must enter this command in your console/terminal.
