@@ -1,6 +1,14 @@
 # Kykal React template
 My ``create-react-app`` template.
 
+- - -
+# Content
+1. [How to use](#how-to-use)
+   - [New folder](#new-folder)
+   - [This directory](#this-directory)
+3. [Creating your own template](#creating-your-own-template)
+- - -
+
 # How to use
 To make use of this template you must enter this command in your console/terminal.
 ## New folder
